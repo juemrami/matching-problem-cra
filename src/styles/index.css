@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
